@@ -30,6 +30,8 @@ series = {IMC '26}
 
 ## Datasets
 
+> ***Note: The dataset upload will be completed no later than the date of the conference.***
+
 ### Paper Result
 
 The [`paper-result`](./paper-result/) folder in this repository contains the accompaning data and scripts used to generate the figures in the paper.
@@ -40,7 +42,7 @@ This includes the `inside-out` latency and throughput measurements collected fro
 
 The [mpls-label-to-pop.csv](https://github.com/clarkzjw/starlink-geoip-data/blob/master/mpls/mpls-label-to-pop.csv) file contains the SR-MPLS label-to-PoP mappings we have identified in Starlink's global backbone network. We publish this finding in the [starlink-geoip-data](https://github.com/clarkzjw/starlink-geoip-data) repository.
 
-### Sample `Outside-in` Datasets
+### Sample Datasets
 
 We do not directly release the mapping between IPv6 router addresses and aircraft tail numbers due to the potential dual-use risks associated with such information.
 
